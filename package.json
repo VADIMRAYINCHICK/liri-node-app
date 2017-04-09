@@ -6,20 +6,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Sergey60327/liri-node-app.git"
-  },
   "keywords": [
     "twitter",
     "liri",
     "movies",
     "spotify"
   ],
-  "author": "Sergey Shcherbakov",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Sergey60327/liri-node-app/issues"
-  },
-  "homepage": "https://github.com/Sergey60327/liri-node-app#readme"
+  "author": "",
+  "license": "ISC"
+
+  
 }
