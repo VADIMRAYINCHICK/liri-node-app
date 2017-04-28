@@ -1,19 +1,22 @@
 {
   "name": "liri-node-app",
   "version": "1.0.0",
-  "description": "\"Your movies, songs and tweets\"",
+  "description": "liri app hw10",
   "main": "liri.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [
-    "twitter",
-    "liri",
-    "movies",
-    "spotify"
-  ],
-  "author": "",
-  "license": "ISC"
-
-  
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VADIMRAYINCHICK/liri-node-app.git"
+  },
+  "author": "vadzim rayinchick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VADIMRAYINCHICK/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/VADIMRAYINCHICK/liri-node-app#readme",
+  "dependencies": {
+    "twitter": "^1.7.0"
+  }
 }
